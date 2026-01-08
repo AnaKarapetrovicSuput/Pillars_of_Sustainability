@@ -10,5 +10,7 @@ we will research each of the three pillars of sustainability and what influences
 So far, the planning phase of this project is finished. 
 
 ## Authors
+
 Prof. Dr. Eva Hofmann
+
 Ana Karapetrovic-Suput
