@@ -11,6 +11,6 @@ So far, the planning phase of this project is finished.
 
 ## Authors
 
-Prof. Dr. Eva Hofmann
+Prof. Dr. Eva Hofmann (eva.b.hofmann@gmail.com)
 
 Ana Karapetrovic-Suput
